@@ -2,6 +2,7 @@
 title: EKS IRSA - IAM Roles for Service Accounts
 description: Learn the concept EKS IRSA - IAM Roles for Service Accounts
 ---
+With IRSA workloads (Pods or Jobs) can have access to AWS Services.
 
 ## Step-01: Introduction
 1. Verify OIDC Provider in EKS Cluster Terraform Manifests
